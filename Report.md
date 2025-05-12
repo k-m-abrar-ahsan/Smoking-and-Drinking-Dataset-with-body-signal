@@ -9,7 +9,7 @@ This report examines the performance of multiple machine learning models—speci
 
 #### 2. Dataset Description
 
-The dataset used for this analysis contains health and demographic data on individuals, specifically designed to capture various physiological and behavioral characteristics. The dataset comprises 991,346 rows and 30 columns, representing individuals' attributes and health indicators. For the sake of model simplicity and computational efficiency, the dataset was reduced prior to analysis.
+The dataset used for this analysis contains health and demographic data on individuals, specifically designed to capture various physiological and behavioral characteristics. It was collected from kaggle (Link: https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset/data) The dataset comprises 991,346 rows and 30 columns, representing individuals' attributes and health indicators. For the sake of model simplicity and computational efficiency, the dataset was reduced prior to analysis.
 
 ##### Key Features of the Dataset:
 
